@@ -8,5 +8,27 @@
     display: flex;
     width: 100%;
     height: 150px;
-    background-color: aqua;
+    padding: 10px;
+}
+
+.settings {
+    height: 100%;
+    width: 30px;
+    background: url('settings.png') no-repeat center center;
+    background-size: contain;
+}
+
+.logo {
+    height: 100px;
+    width: 400px;
+    background: url('logo.png') no-repeat center center;
+    background-size: contain;
+    margin: 0px auto;
+}
+
+.message {
+    height: 100px;
+    width: 30px;
+    background: url('message.png') no-repeat center center;
+    background-size: contain;
 }
