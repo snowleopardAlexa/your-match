@@ -67,3 +67,15 @@
 .dstance {
     font-size: 16px;
 }
+
+.bottomBar {
+    display: flex;
+}
+
+.smallRing {
+    height: 150px;
+    width: 150px;
+    border: 20px lightcoral solid;
+    border-radius: 50%;
+}
+
